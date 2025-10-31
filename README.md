@@ -37,7 +37,7 @@ Users can model, customize, and share 3D designs effortlessly through **template
 ## 🛠️ Setup (Development)
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/parlen3d.git
+git clone https://github.com/SoftCircuitFm/parlen3d.git
 cd parlen3d
 
 # Install backend
